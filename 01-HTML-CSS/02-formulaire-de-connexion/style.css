@@ -1,0 +1,70 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-image: linear-gradient(
+      90deg,
+      rgba(0, 0, 0, 0.96) 0%,
+      rgba(8, 8, 1, 0.82) 0%
+    ),
+    url(./assets/background-admin.jpg);
+  background-size: cover;
+
+  margin: 0;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+}
+
+.login {
+  width: 325px;
+  /* height: 350px; */
+  background-color: white;
+  text-align: center;
+  padding: 30px;
+  border-radius: 5px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  margin: 0 auto;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.login h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+.login h4 {
+  background-color: rgb(202, 202, 116);
+  padding: 10px;
+  border-radius: 5px;
+  color: rgb(63, 63, 63);
+  font-weight: normal;
+}
+
+.login input {
+  font-family: inherit;
+  width: 300px;
+  padding: 10px;
+  border-radius: 2px;
+  border: none;
+  font-size: 0.85em;
+}
+
+.login input[type='password'] {
+  margin-top: 5px;
+}
+
+.login input[type='submit'] {
+  width: 50%;
+  background-color: black;
+  color: white;
+  font-size: 1em;
+  margin: 20px 0 5px 0px;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+.login input[type='submit']:hover {
+  background-color: grey;
+}
