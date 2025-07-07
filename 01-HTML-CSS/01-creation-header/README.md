@@ -4,7 +4,7 @@ Ce mini-projet montre comment créer un header simple en HTML et CSS.
 
 ## Aperçu
 
-![Capture du header](./screenshots/capture-header.png)
+![Capture](./screenshots/capture-header.png)
 
 ## Technologies utilisées
 

@@ -4,7 +4,7 @@ Ce mini-projet montre comment créer un formulaire de connexion à un espace adm
 
 ## Aperçu
 
-![Capture du header](./screenshots/Capture%20d’écran%202025-07-07%20à%2001.00.07.png)
+![Capture](./screenshots/Capture%20d’écran%202025-07-07%20à%2001.00.07.png)
 
 ## Technologies utilisées
 
