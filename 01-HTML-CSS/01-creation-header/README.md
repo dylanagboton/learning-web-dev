@@ -10,7 +10,3 @@ Ce mini-projet montre comment créer un header simple en HTML et CSS.
 
 - HTML5
 - CSS3
-
-## Objectif
-
-Pratiquer la mise en page d'un header avec styles basiques.

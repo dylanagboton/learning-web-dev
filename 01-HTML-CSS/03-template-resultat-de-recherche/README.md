@@ -10,7 +10,3 @@ Ce mini-projet montre comment créer un template de résultats de recherches en 
 
 - HTML5
 - CSS3
-
-## Objectif
-
-Pratiquer la mise en page d'un header avec styles basiques.
